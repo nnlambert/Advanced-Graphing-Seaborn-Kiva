@@ -1,0 +1,2 @@
+# Advanced Graphing Seaborn Kiva
+ Porject utilizing the seaborn python library to create descriptive graphs from a dataset sourced from Kaggle. The information covers loans awarded by a non-profit called Kiva. Using Seaborn I will explore the average loan amount by country using aggregated bar charts, and visualize the distribution of loan amount by project type and gender using boxplots abd violin plots.
